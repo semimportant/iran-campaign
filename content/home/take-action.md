@@ -29,4 +29,4 @@ Please see our event calendar below for more info.
 
 Check out anti-war group for NYC-DSA AWWG general events.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=qo06q0enuaoca55jrnniqsbf4c%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<p style="text-align: center;"> <iframe src="https://calendar.google.com/calendar/embed?src=qo06q0enuaoca55jrnniqsbf4c%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> </p>
