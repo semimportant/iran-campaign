@@ -5,23 +5,25 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#hero"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Petition"
+  url = "#petition"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "About the Campain"
+  url = "#about"
   weight = 30
 
+
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Take Action2"
+  url = "#projects"
   weight = 40
+
 
 [[main]]
   name = "Contact"
