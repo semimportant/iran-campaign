@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "About the Campain"
+  name = "About the Campaign"
   url = "#about"
   weight = 30
 
