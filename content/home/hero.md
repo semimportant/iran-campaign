@@ -3,7 +3,7 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
  hero_media = "nowar_text.png"
@@ -30,6 +30,7 @@ weight = 10  # Order that this section will appear.
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "10px", "20px", "10px"]
+
 +++
 {{< figure library="1" src="logo.png" >}}
 
