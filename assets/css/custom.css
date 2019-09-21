@@ -1,0 +1,15 @@
+.embedstuff {
+  background-color: red;
+  max-width: 100%;
+  padding-top: 100%; /* 1:1 Aspect Ratio */
+  position: ; /* If you want text inside of it */
+}
+
+/* If you want text inside of the container */
+.text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
