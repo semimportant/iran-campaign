@@ -32,5 +32,3 @@ If you'd like to get involved with the NYC-DSA Anti-War Working Group, send an e
 <div class='embed-container'>
 <iframe src="https://calendar.google.com/calendar/b/2/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=cW8wNnEwZW51YW9jYTU1anJubmlxc2JmNGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%237986CB&amp;showTitle=0&amp;showNav=1&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=0&amp;showTz=1" style="border:solid 1px #777" frameborder="0" scrolling="no"></iframe></div>
 
-
-width="100%"
