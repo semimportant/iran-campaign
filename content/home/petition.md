@@ -27,5 +27,5 @@ We demand that all Democratic Party presidential candidates prioritize diplomacy
 
 [View letter on Action Network](https://actionnetwork.org/petitions/oppose-war-and-economic-sanctions-on-iran?source=direct_link&) or sign below to show your support.
 
-<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/petition/oppose-war-and-economic-sanctions-on-iran?format=js&source=widget'></script><div id='can-petition-area-oppose-war-and-economic-sanctions-on-iran' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
 
+<link href='https://actionnetwork.org/css/style-embed-whitelabel-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/petition/oppose-war-and-economic-sanctions-on-iran?format=js&source=widget'></script><div id='can-petition-area-oppose-war-and-economic-sanctions-on-iran' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
