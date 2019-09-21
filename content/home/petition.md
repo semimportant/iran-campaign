@@ -25,6 +25,7 @@ Sanctions are economic warfare, preventing ordinary Iranians from accessing the 
 
 We demand that all Democratic Party presidential candidates prioritize diplomacy, and oppose economic sanctions and war on Iran.
 
+
 [View letter on Action Network](https://actionnetwork.org/petitions/oppose-war-and-economic-sanctions-on-iran?source=direct_link&) or sign below to show your support.
 
 
