@@ -29,6 +29,10 @@ If you have questions or want to get involved with the campaign, send us a messa
 
 If you'd like to get involved with the NYC-DSA Anti-War Working Group, send an email to antiwar@socialists.nyc and <a href="https://twitter.com/nycdsaantiwar">follow us on Twitter</a>. NYC-DSA Anti-War Working Group monthly meetings are held at 6:30 pm on the first Wednesday of each month at Mary House (The Catholic Worker), 55 E 3rd St, New York, NY 10003.
 
-<div class='embed-container'>
-<iframe src="https://calendar.google.com/calendar/b/2/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=cW8wNnEwZW51YW9jYTU1anJubmlxc2JmNGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%237986CB&amp;showTitle=0&amp;showNav=1&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=0&amp;showTz=1" style="border:solid 1px #777" frameborder="0" scrolling="no"></iframe></div>
+ <div class="responsive-iframe-container big-container">
+<iframe src="https://calendar.google.com/calendar/b/2/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=cW8wNnEwZW51YW9jYTU1anJubmlxc2JmNGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%237986CB&amp;showTitle=0&amp;showNav=1&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=0&amp;showTz=1" style="border:solid 1px #777" width="100%" height="650" frameborder="0" scrolling="no"></iframe>
+ </div>
 
+ <div class="responsive-iframe-container small-container">
+<iframe src="https://calendar.google.com/calendar/b/2/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=cW8wNnEwZW51YW9jYTU1anJubmlxc2JmNGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%237986CB&amp;showTitle=0&amp;showNav=1&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=0&amp;showTz=1&amp;mode=AGENDA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+ </div>
