@@ -22,4 +22,4 @@ weight = 10  # Order that this section will appear in.
  <a href="https://www.socialists.nyc/">
   <img src="/img/nycdsa.png" style="width:30%;">
 </a> 
-  <img src="/img/idk.png" style=maxwidth="100%" overflow-x="hidden">
+  <img src="/img/NOWAR_NOSANCTIONS_BANNER.png" style=maxwidth="100%" overflow-x="hidden">
