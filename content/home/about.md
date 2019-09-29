@@ -6,7 +6,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear in.
 
-title = "About the Campain"
+title = "About the Campaign"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
